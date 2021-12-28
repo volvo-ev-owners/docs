@@ -8,7 +8,7 @@
 ## Before you drive
 
 - [ ] Verify the car's included equipment with the window sticker
-- [ ] Make sure you (2) keys
+- [ ] Make sure you receive (2) keys
   - [ ] (1) Black
   - [ ] (1) Orange
 
@@ -27,7 +27,6 @@
 - [ ] The software is up to date ([Check Volvo](https://www.volvocars.com/lb/support/software-release-notes/xc40-recharge-pure-electric/2021w46))
 - [ ] LTE/GPS works
 - [ ] Cycle locks and verify all 4 doors open
-
 
 
 ## On your test drive
