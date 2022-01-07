@@ -22,7 +22,7 @@
 - [ ] No cracks/chips in sunroof
 - [ ] No signs of rust or locking-up on the brakes
   - Clear visually
-- [ ] Sharfin antenna is seated properly
+- [ ] Sharkfin antenna is seated properly
   - Check for a good seal
   - No signs of separation
 
