@@ -3,14 +3,18 @@
     - [Exterior](#exterior)
     - [Interior](#interior)
   - [On your test drive](#on-your-test-drive)
+  - [After you sign](#after-you-sign)
 # Volvo XC40/C40 P8 Delivery Checklist
 
 ## Before you drive
 
 - [ ] Verify the car's included equipment with the window sticker
-- [ ] Make sure you receive at least two keys
-  - [ ] (1 or 2) Black
+- [ ] Make sure you receive at least (2) keys
+  - [ ] (1 or more) Black
   - [ ] (1) Orange
+- [ ] EV charging cable
+  - [ ] 120v adapter
+  - [ ] 240v adapter
 
 ### Exterior
 
@@ -29,7 +33,10 @@
 ### Interior
 
 - [ ] The software is up to date ([Check Volvo](https://www.volvocars.com/lb/support/software-release-notes/xc40-recharge-pure-electric/2021w46))
-- [ ] LTE/GPS works
+- [ ] Check connectivity
+  - [ ] LTE
+  - [ ] GPS
+  - [ ] Bluetooth
 - [ ] Cycle locks and verify all 4 doors open
 
 
@@ -38,3 +45,7 @@
 - [ ] No signs locking-up on the brakes
   - No thud or sticking feeling when you first take off
 - [ ] No rattling
+
+
+## After you sign
+- [ ] Pair the car with the Volvo Cars App ([iPhone](https://apps.apple.com/us/app/volvo-cars/id439635293)/[Android](https://play.google.com/store/apps/details?id=se.volvo.vcc))
