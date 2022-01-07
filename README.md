@@ -8,8 +8,8 @@
 ## Before you drive
 
 - [ ] Verify the car's included equipment with the window sticker
-- [ ] Make sure you receive (2) keys
-  - [ ] (1) Black
+- [ ] Make sure you receive at least two keys
+  - [ ] (1 or 2) Black
   - [ ] (1) Orange
 
 ### Exterior
@@ -22,7 +22,7 @@
 - [ ] No cracks/chips in sunroof
 - [ ] No signs of rust or locking-up on the brakes
   - Clear visually
-- [ ] Sharfin antenna is seated properly
+- [ ] Sharkfin antenna is seated properly
   - Check for a good seal
   - No signs of separation
 
