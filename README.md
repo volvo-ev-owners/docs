@@ -8,8 +8,8 @@
 ## Before you drive
 
 - [ ] Verify the car's included equipment with the window sticker
-- [ ] Make sure you receive (3) keys
-  - [ ] (2) Black
+- [ ] Make sure you receive at least two keys
+  - [ ] (1 or 2) Black
   - [ ] (1) Orange
 
 ### Exterior
