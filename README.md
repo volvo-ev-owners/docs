@@ -38,6 +38,7 @@
   - [ ] GPS
   - [ ] Bluetooth
 - [ ] Cycle locks and verify all 4 doors open
+- [ ] Verify seat warmers get toasty
 
 
 ## On your test drive
